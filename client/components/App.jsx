@@ -6,6 +6,9 @@ import Deck from './Deck'
 const App = () => {
   return (
     <div>
+      <p>
+        test
+      </p>
       <Deck />
     </div>
   )
